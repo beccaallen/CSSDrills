@@ -22,6 +22,18 @@ h2, p, .readme-wrapper {
     text-align: center;
 }
 
+h1 {
+    color:darkgreen
+}
+
+.original {
+    color: darkorange;
+}
+
+.additional {
+    color: cornflowerblue;
+}
+
 a:hover {
     color: palevioletred;
     font-weight: bold;
@@ -68,4 +80,41 @@ a:hover {
 
 #chemistry {
     background: url(https://thumbs.dreamstime.com/b/watercolor-science-equipment-microscope-glass-laboratory-tools-hand-drawn-chemistry-illustration-school-set-194435777.jpg);
+}
+
+#no1 {
+
+   color: crimson;
+}
+
+#no2 {
+    color: darkmagenta;
+}
+
+#no3 {
+    color: darkslateblue;
+}
+
+#no4{
+    color: dodgerblue;
+}
+
+#no5 {
+    color: green;
+}
+
+ul {
+    color: honeydew;
+}
+
+.star {
+    color: hotpink;
+}
+
+#wars {
+    color: indigo;
+}
+
+.border {
+    border: 20px solid black;
 }
